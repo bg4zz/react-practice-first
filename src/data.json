@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "front": "Apple",
+    "back" : "Яблоко"
+  },
+  {
+    "id": 2,
+    "front": "Black",
+    "back" : "Чёрный"
+  },
+  {
+    "id": 3,
+    "front": "Car",
+    "back" : "Машина"
+  },
+  {
+    "id": 4,
+    "front": "President",
+    "back" : "Президент"
+  },
+  {
+    "id": 5,
+    "front": "Russia",
+    "back" : "Россия"
+  },
+  {
+    "id": 6,
+    "front": "Metallica",
+    "back" : "Металлика"
+  },
+  {
+    "id": 7,
+    "front": "Anthrax",
+    "back" : "Антракс"
+  },
+  {
+    "id": 8,
+    "front": "Pantera",
+    "back" : "Пантера"
+  },
+  {
+    "id": 9,
+    "front": "Gemini Syndrome",
+    "back" : "Синдром близнецов"
+  },
+  {
+    "id": 10,
+    "front": "Motorhead",
+    "back" : "Моторхэд"
+  }
+]
